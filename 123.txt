@@ -1,2 +1,3 @@
 adsjflj23.txt
 remote add
+local add
