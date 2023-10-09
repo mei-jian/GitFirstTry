@@ -3,3 +3,6 @@ remote add
 local add
 remote new add
 local new add
+
+remote 666
+remote 777
