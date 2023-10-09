@@ -2,3 +2,4 @@ adsjflj23.txt
 remote add
 local add
 remote new add
+local new add
