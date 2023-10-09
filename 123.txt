@@ -6,3 +6,5 @@ local new add
 
 remote 666
 remote 777
+
+test
